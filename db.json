@@ -1,14 +1,14 @@
 {
   "Banner":[
     {
-      id:1,
-      imageUrl: "https://syscatech.com/en/images/logo.png",
-      title: "Logo"
+      "id": "1",
+      "imageUrl": "https://syscatech.com/en/images/logo.png",
+      "title": "Logo"
     },
     {
-      id:2,
-      imageUrl: "https://syscatech.com/en/images/07.jpg",
-      title: "Example"
+      "id":"2",
+      "imageUrl": "https://syscatech.com/en/images/07.jpg",
+      "title": "Example"
     }
   ]
 }
