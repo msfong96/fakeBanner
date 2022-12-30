@@ -4,13 +4,13 @@
       "id": "1",
       "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner-01.jpg",
       "title": "Banner 1",
-      "link":"https://www.google.com/"
+      "link":""
     },
     {
       "id":"2",
       "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner-02.jpg",
       "title": "Banner 2",
-      "link":""
+      "link":"https://www.gembox.com.my/"
     }
   ]
 }
