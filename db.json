@@ -1,28 +1,16 @@
 {
-  "Banner":[
+  "Banner":[ 
     {
-      "id": "1",
-      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner-01.jpg",
+      "id":"1",
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner1.jpg",
       "title": "Banner 1",
       "link":""
     },
     {
       "id":"2",
-      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner-02.jpg",
-      "title": "Banner 2",
-      "link":""
-    },
-    {
-      "id":"3",
-      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner1.jpg",
-      "title": "Banner 3",
-      "link":""
-    },
-    {
-      "id":"4",
       "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner2.jpg",
-      "title": "Banner 4",
-      "link":""
+      "title": "Banner 2",
+      "link":"https://www.gembox.com.my/"
     }
   ]
 }
