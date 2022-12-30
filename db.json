@@ -2,13 +2,15 @@
   "Banner":[
     {
       "id": "1",
-      "imageUrl": "https://syscatech.com/en/images/logo.png",
-      "title": "Logo"
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner-01.jpg",
+      "title": "Banner 1",
+      "link":""
     },
     {
       "id":"2",
-      "imageUrl": "https://syscatech.com/en/images/07.jpg",
-      "title": "Example"
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner-02.jpg",
+      "title": "Banner 2",
+      "link":""
     }
   ]
 }
