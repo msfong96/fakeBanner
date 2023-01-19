@@ -8,8 +8,26 @@
     },
     {
       "id":"2",
-      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner2.jpg",
-      "title": "Banner 2",
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/cny1.jpg",
+      "title": "Cny 1",
+      "link":""
+    },
+    {
+      "id":"3",
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/cny2.jpg",
+      "title": "Cny 2-HotAirBallon",
+      "link":"http://t2u.asia/e/29798"
+    },
+    {
+      "id":"4",
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/cny3.jpg",
+      "title": "Cny 3",
+      "link":""
+    },
+    {
+      "id":"5",
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/cny4.jpg",
+      "title": "Cny 4",
       "link":""
     }
   ]
