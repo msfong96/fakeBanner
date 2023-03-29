@@ -1,6 +1,12 @@
 {
   "Banner":[ 
     {
+      "id":"5",
+      "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/Raya_Banner.gif",
+      "title": "Raya",
+      "link":""
+    },
+    {
       "id":"1",
       "imageUrl": "https://raw.githubusercontent.com/msfong96/fakeBanner/main/banner/banner1.jpg",
       "title": "Banner 1",
